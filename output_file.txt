@@ -1,0 +1,5 @@
+Bin 0: 0.96 Items: 0.40 0.20 0.30 0.05 0.01 
+Bin 1: 0.70 Items: 0.70 
+Bin 2: 0.80 Items: 0.80 
+Bin 3: 0.60 Items: 0.60 
+Bin 4: 0.99 Items: 0.99 
